@@ -1,6 +1,6 @@
 [package]
 name = "cargo-rush"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["CryptoPatrick <cryptopatrick@gmail.com>"]
 edition = "2021"
 description = "cargo run whatever is on the operating system clipboard."
